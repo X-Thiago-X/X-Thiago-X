@@ -1,6 +1,6 @@
 #### ✨Hi, Wellcome
-💼:Front-end, Back-end
-<br>📚:Jupyter, Python, 🤖Machine Learning
+💼: Front-end, Back-end
+<br>📚: Jupyter, Python, 🤖Machine Learning
 
 ##
 
